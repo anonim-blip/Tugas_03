@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    font-family: georgia;
+    text-shadow: 3px 2px 1px grey;
+    font-size: 200%;
+}
+h2{
+    color: aqua;
+    font-family: comic;
+    font-size: 120%;
+}
+h3{
+    color: blueviolet;
+    font-family: 'Gill Sans' ;
+}
+h5{
+    text-align:right;
+}
+p{
+    font-family: Arial;
+}
+h5{
+    font-family: Helvetica;
+}
